@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,700;1,700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.custom-head{
+    color: #0FF74D;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    font-size: 3.5em;
+}
+.calculator{
+    font-family: 'Ubuntu Mono', monospace;
+}
+.input-field{
+    background-color: #DCDCDC;
+    color: black;
+    border: 2px solid #DCDCDC;
+}
+#d-error{
+    color: red;
+    font-weight: 700;
+    display: none;
+}
+#d-error2{
+    color: red;
+    font-weight: 700;
+    display: none;
+}
